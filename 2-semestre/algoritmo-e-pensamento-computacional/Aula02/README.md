@@ -6,5 +6,5 @@ Conteúdos da aula:
 - Introdução de Algoritmos;
 - Introdução a Linguagem C;
   - Criação de Variaveis (int e float);
-  - Apresentação de informações no console (printf);
+  - Comandos de saída (printf);
   - Cálculos básicos: soma, subtração, divisão e multiplicação.
