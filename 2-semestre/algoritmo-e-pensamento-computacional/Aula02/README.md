@@ -1,5 +1,6 @@
 **Algoritmo e Pensamento Computacional**
 **Aula 2**
+
 Conteúdos da aula:
 - Pilares do Pensamento Computacional;
 - Introdução de Algoritmos;
