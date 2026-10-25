@@ -7,3 +7,4 @@ Conteúdos da aula:
 - Introdução a Linguagem C;
   - Criação de Variaveis (int e float);
   - Apresentação de informações no console (printf);
+  - Cálculos básicos: soma, subtração, divisão e multiplicação.
