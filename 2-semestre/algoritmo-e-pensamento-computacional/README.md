@@ -1,8 +1,8 @@
-#Algoritmo e Pensamento Computacional
+# Algoritmo e Pensamento Computacional
 
-##Conteúdos abordados:
+## Conteúdos abordados:
 
-###Aula 2
+### Aula 2
 
 - Pilares do Pensamento Computacional;
 - Introdução de Algoritmos;
