@@ -1,2 +1,12 @@
-**Algoritmo e Pensamento Computacional**
+#Algoritmo e Pensamento Computacional
 
+##Conteúdos abordados:
+
+###Aula 2
+
+- Pilares do Pensamento Computacional;
+- Introdução de Algoritmos;
+- Introdução a Linguagem C;
+  - Criação de Variaveis (int e float);
+  - Comandos de saída (printf);
+  - Cálculos básicos: soma, subtração, divisão e multiplicação.
