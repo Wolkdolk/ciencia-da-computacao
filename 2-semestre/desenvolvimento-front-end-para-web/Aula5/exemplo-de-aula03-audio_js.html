@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Áudio em HTML</title>
+</head>
+<body>
+    <h1>Áudio em HTML</h1>
+
+    <p>Clique no campo de reproducao para reproduzir o áudio: </p>
+
+    <audio id="meuAudio" controls loop>
+        <source
+            src="nyan.mp3"
+            type="audio/mpeg"
+        />
+        Seu navegador não suporta a reprodução de áudio.
+    </audio>
+    <script>
+        const audio = document.getElementById(meuAudio);
+        audio.volume = 0.1;
+    </script>
+</body>
