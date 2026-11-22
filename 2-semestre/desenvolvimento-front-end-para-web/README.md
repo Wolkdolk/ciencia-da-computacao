@@ -17,6 +17,6 @@ Repositório com anotações e exercícios práticos das aulas de Front-End.
 ### [Aula 04](./Aula4)
 - HTML Semântico (`<header>`, `<main>`, `<footer>`, `<section>`, `<div>`)
 
-### [Aula 05](./Aula-5)
+### [Aula 05](./Aula5)
 - Formulários (`<form>`, `<input>`, `<label>`, `<button>`)
 - Recursos de Multimídia (`<video>`, `<audio>`)
